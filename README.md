@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Adrian Barcia</h1>
 <h3 align="center">Junior data analyst and self-taught Unity developer</h3>
 
-- 🌱 I’m currently learning **Data analyst at Tripleten**
+Hi! I'm Adrian, a self taught Unity Developer and recently I also finished my training as Proffessional Data Analyst, which included 10 real world projects. My skills include SQL, Databases, Data Visualization, EDA, Spreadsheets,  Python, ML and C#. 
 
-- 📫 How to reach me **adrian.barcia@gmail.com**
+I have been a massage therapyst for 16 years, but Tech is my passion. Now I've decided to follow it and enter Tech in a proffessional capacity. In order to accomplish that, I enrolled into Tripleten's 10 month Data Analyst program. The curriculum started with Advanced Spreadsheets, and covered Python (Pandas, NumPy), Data Visualization (Matplotlib, Plotly, Seaborn, Tableau), machine learning (scikit-learn), SQL and more. Each sprint finished with a project taken from a real world scenario.
 
-- ⚡ Fun fact **I was the unofficial judge in Argentina for the TCG "Legend of the 5 Rings"**
+
+
+- 🌱 I’ve recently completed **Data analyst at Tripleten**
+
+- :wrench: I love fixing things and learning how they work.
+
+- 📫 How to reach me **adrian.barcia@gmail.com**, or **www.linkedin.com/in/adrian-jbr/**
+
+- ⚡ Fun fact **I was the unofficial judge in Argentina for the CCG "Legend of the 5 Rings"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
