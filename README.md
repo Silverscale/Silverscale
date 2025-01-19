@@ -11,9 +11,9 @@ I have been a massage therapyst for 16 years, but Tech is my passion. Now I've d
 
 - :wrench: I love fixing things and learning how they work.
 
-- 📫 How to reach me **adrian.barcia@gmail.com**, or **www.linkedin.com/in/adrian-jbr/**
+- 📫 How to reach me: **adrian.barcia@gmail.com**, or **www.linkedin.com/in/adrian-jbr/**
 
-- ⚡ Fun fact **I was the unofficial judge in Argentina for the CCG "Legend of the 5 Rings"**
+- ⚡ Fun fact: **I was the unofficial judge in Argentina for the CCG "Legend of the 5 Rings"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
